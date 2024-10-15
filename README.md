@@ -1,2 +1,2 @@
 # holbertonschool-shell
-where connected.
+Where learning about shell.
