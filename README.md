@@ -1,1 +1,2 @@
 # holbertonschool-shell
+where connected.
