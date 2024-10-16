@@ -1,1 +1,1 @@
-Command line 'pwd', script hot current working directory
+shell basics
