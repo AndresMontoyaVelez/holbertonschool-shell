@@ -1,19 +1,19 @@
 #Shell Scripting Basics Exercise
 
 Task 0:
-  pwd === print working directory
+  pwd  print working directory
 
 Task 1:
-  ls === list directory contents
+  ls  list directory contents
 
 Task 2:
-  cd === change parent directory
+  cd  change parent directory
 
 Task 3:
-  ls -l === list directory contents in long form
+  ls -l  list directory contents in long form
 
 Task 4:
-  ls -la === list directory contents in long form, including hidden files
+  ls -la  list directory contents in long form, including hidden files
 
 Task 5:
   ls -lna
